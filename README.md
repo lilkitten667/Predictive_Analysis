@@ -17,7 +17,8 @@ Exploritory Data Analitics in Python were completed on all models. Models were c
 * Logistic Regression
 * Distance using Percentages
 * Mahalanobis Distance
-
+**** Also will include other types of database analysis as I finish ** project is not finished yet
+  
 
 ## Example of Stock Crisis analysis
 <img width="591" height="506" alt="image" src="https://github.com/user-attachments/assets/2edcec9b-d3a8-4494-817b-46ef0e1c3bd5" />
